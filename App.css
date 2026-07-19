@@ -1,0 +1,6 @@
+.landing-page {
+    /* Code implementing the background image for the Paradise Nursery landing page */
+    background-image: url('https://example.com/background.jpg');
+    background-size: cover;
+    background-position: center;
+}
